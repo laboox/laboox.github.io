@@ -1,7 +1,7 @@
 baseURL = 'laboox.github.com'
 languageCode = 'en-us'
 title = "Sina's Home page"
-publishDir = 'public'
+publishDir = '..'
 
 [deployment]
 

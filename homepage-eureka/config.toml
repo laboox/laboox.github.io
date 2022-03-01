@@ -1,4 +1,4 @@
-baseURL = 'laboox.github.com'
+baseURL = 'http://labbaf.net'
 languageCode = 'en-us'
 title = "Sina's Home page"
 publishDir = '..'

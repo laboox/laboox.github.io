@@ -4,7 +4,7 @@ draft: false
 role: PhD Candidate
 avatar: images/avatar.jpg
 bio: >
-  Researcher, Software Engineer, Fitness enthusiast, Nature lover, Philosophy reader, and Daydreamer
+  Researcher, Software Engineer, Fitness enthusiast, Nature lover
 organization:
   name: Dutt Research Group, UC Irvine
   url: https://duttgroup.ics.uci.edu/
@@ -56,9 +56,6 @@ Name is Sina Labbaf, and my handle is LABOOX. I am a PhD Candidate at UC Irvine.
 amazing Professors [Nik Dutt](https://www.ics.uci.edu/~dutt/) and [Amir Rahmani](https://www.ics.uci.edu/~amirr1/).
 My main research project is to build services for Health Cybernetics research. You can read more about it 
 [here](/projects/zotcare). 
-
-**I am currently applying for 
-internships for summer 2022**.
 
 
 Download my [CV](files/CV_Sina_Labbaf.pdf).

@@ -1,8 +1,8 @@
 baseURL = 'http://labbaf.net'
 languageCode = 'en-us'
 title = "Sina's Home page"
-publishDir = '..'
-
+publishDir = 'public'
+googleAnalytics = 'G-RNKJW15WW2'
 [deployment]
 
 [[deployment.targets]]

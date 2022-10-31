@@ -6,7 +6,7 @@ experiences:
     organization:
       name: UC Irvine
       url: https://duttgroup.ics.uci.edu/
-    dates: '2017 - Present'
+    dates: 'Sep 17 - Present'
     location: Irvine, CA
     writeup: >
       - Developed and supervised a cybernetics health service for remote healthcare monitoring and intervention:
@@ -15,16 +15,29 @@ experiences:
         - Adoptable sensor layer program for wearable devices to collect physiological signals
         - Administrator dashboard to setup and control services for researchers
       - Monitoring and analyzing stress level using wearable IoT devices
-      
+
+  - title: Full-Stack Software Engineer Intern
+    organization:
+      name: Unity Technologies
+      url: https://unity.com/
+    dates: 'Summer 22'
+    location: San Francisco, CA
+    writeup: >
+      * Interned in Ads Mediation Features team at Unity Operate Organization
+
+      * Designed the technical full-stack integration of Unity Mediation services into Unity History log service
+ 
   - title: Full-Stack Developer
     organization:
       name: Pegah Tech Co.
       url: https://www.pegahtech.ir/
-    dates: '2016 - 2017'
+    dates: 'Sep 16 - Sep 17'
     location: Tehran, Iran
     writeup: >
       - Developed web-applications for various internet services: Backtory (BAAS), Alounak (Real-estate), Suppline (online support)
-       - Improved reachability and click rate of ad campaigns by interactive advertisement design and development
+    
+      - Improved reachability and click rate of ad campaigns by interactive advertisement design and development
+    
       - Integrated video advertisement SDK with game development platforms
 
 weight: 2

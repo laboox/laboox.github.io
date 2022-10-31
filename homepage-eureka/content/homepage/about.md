@@ -54,8 +54,8 @@ widget:
 
 Name is Sina Labbaf, and my handle is LABOOX. I am a PhD Candidate at UC Irvine. My research is supervised by two 
 amazing Professors [Nik Dutt](https://www.ics.uci.edu/~dutt/) and [Amir Rahmani](https://www.ics.uci.edu/~amirr1/).
-My main research project is to build services for Health Cybernetics research. You can read more about it 
-[here](/projects/zotcare). 
+My main research project is to build a service platform for Health Cybernetics research. You can read more about it 
+[here](/projects/zotcare).
 
 
 Download my [CV](files/CV_Sina_Labbaf.pdf).

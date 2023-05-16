@@ -4,7 +4,7 @@ draft: false
 role: PhD Candidate
 avatar: images/avatar.jpg
 bio: >
-  Researcher, Software Engineer, Fitness enthusiast, Nature lover
+  Researcher, Software Engineer, Data Scientist, Fitness Enthusiast
 organization:
   name: Dutt Research Group, UC Irvine
   url: https://duttgroup.ics.uci.edu/
@@ -23,7 +23,7 @@ social:
     url: https://scholar.google.com/citations?user=8SWJZFkAAAAJ
   - icon: file-pdf
     iconPack: far
-    url: files/CV_Sina_Labbaf.pdf
+    url: files/CV-SINA-LABBAF.pdf
 
 weight: 1
 widget:
@@ -49,14 +49,11 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
+I am a PhD Candidate at UC Irvine. 
+My research project is to build a service platform for Health Cybernetics research. 
+You can read more about it [here](/projects/zotcare).
+My research is supervised by two amazing Professors [Nik Dutt](https://www.ics.uci.edu/~dutt/) and [Amir Rahmani](https://www.ics.uci.edu/~amirr1/).
 
-## Bio
+*I am currently looking for full-stack software engineering or data science positions starting summer 2023.*
 
-Name is Sina Labbaf, and my handle is LABOOX. I am a PhD Candidate at UC Irvine. My research is supervised by two 
-amazing Professors [Nik Dutt](https://www.ics.uci.edu/~dutt/) and [Amir Rahmani](https://www.ics.uci.edu/~amirr1/).
-My main research project is to build a service platform for Health Cybernetics research. You can read more about it 
-[here](/projects/zotcare).
-
-
-Download my [CV](files/CV_Sina_Labbaf.pdf).
-
+Download my [CV](files/CV-SINA-LABBAF.pdf).

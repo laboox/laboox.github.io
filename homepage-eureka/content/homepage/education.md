@@ -11,6 +11,14 @@ experiences:
     writeup: >
       Doctor of Philosophy in Computer Science
       
+  - title:
+    organization:
+      name: UC Irvine
+    dates: '2017 - 2022'
+    location: Irvine, CA
+    writeup: >
+      Masters in Computer Science
+      
   - title: 
     organization:
       name: University of Tehran

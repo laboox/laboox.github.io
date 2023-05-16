@@ -8,6 +8,3 @@ main:
   - name: Projects
     url: /projects/zotcare
     weight: 3
-  - name: Blog
-    url: /blog/
-    weight: 4

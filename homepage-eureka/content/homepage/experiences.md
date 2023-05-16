@@ -9,12 +9,17 @@ experiences:
     dates: 'Sep 17 - Present'
     location: Irvine, CA
     writeup: >
-      - Developed and supervised a cybernetics health service for remote healthcare monitoring and intervention:
-        - Micro-service cloud server for distributed storage, analytic, and machine learning of digital health-IoT data
-        - Multi platform dynamic questionnaire app for data labeling and intervention
-        - Adoptable sensor layer program for wearable devices to collect physiological signals
-        - Administrator dashboard to setup and control services for researchers
-      - Monitoring and analyzing stress level using wearable IoT devices
+      - Lead, designed, and developed a cybernetics health service platform for remote healthcare monitoring and intervention
+      
+      - Serviced over *10 projects* with more than *1500 participants* in different fields: mental health, maternal well-being, elderly care, etc.
+      
+      - Achieve high performance in processing and storing high-frequent longitudinal healthcare data in micro-service server design
+      
+      - Improve participant engagement by developing a multi-platform dynamic mobile app for labeling and intervention
+      
+      - Design web dashboards that enabled health providers to create data pipelines and machine learning engines without programming
+      
+      - Supervised diverse teams of *more than 30* undergraduate researchers, exchange students, and visitor scholars
 
   - title: Full-Stack Software Engineer Intern
     organization:
@@ -24,8 +29,8 @@ experiences:
     location: San Francisco, CA
     writeup: >
       * Interned in Ads Mediation Features team at Unity Operate Organization
-
-      * Designed the technical full-stack integration of Unity Mediation services into Unity History log service
+      
+      * Designed the full-stack integration of customer history change log feature for Unity Mediation
  
   - title: Full-Stack Developer
     organization:
@@ -34,11 +39,11 @@ experiences:
     dates: 'Sep 16 - Sep 17'
     location: Tehran, Iran
     writeup: >
-      - Developed web-applications for various internet services: Backtory (BAAS), Alounak (Real-estate), Suppline (online support)
-    
-      - Improved reachability and click rate of ad campaigns by interactive advertisement design and development
-    
-      - Integrated video advertisement SDK with game development platforms
+      - Contributed to the launch of products in gaming BaaS and SaaS, mobile advertisements, Real-estate solutions, and online chat support
+      
+      - Demonstrated expertise in designing, developing, and testing web-application dashboards for a diverse range of internet services
+      
+      - Boosted user engagement by creating a light-weight interactive mobile ads SDK
 
 weight: 2
 widget:

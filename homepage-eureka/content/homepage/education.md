@@ -6,7 +6,7 @@ experiences:
     organization:
       name: UC Irvine
       url: https://duttgroup.ics.uci.edu/
-    dates: '2017 - Present'
+    dates: '2017 - 2023'
     location: Irvine, CA
     writeup: >
       Doctor of Philosophy in Computer Science

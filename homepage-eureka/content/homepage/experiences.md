@@ -2,7 +2,7 @@
 title: Experiences
 draft: false
 experiences:
-  - title: Graduate Student Researcher
+  - title: Research Software Engineer
     organization:
       name: UC Irvine
       url: https://duttgroup.ics.uci.edu/
@@ -34,7 +34,7 @@ experiences:
  
   - title: Full-Stack Developer
     organization:
-      name: Pegah Tech Co.
+      name: Pegah Tech
       url: https://www.pegahtech.ir/
     dates: 'Sep 16 - Sep 17'
     location: Tehran, Iran

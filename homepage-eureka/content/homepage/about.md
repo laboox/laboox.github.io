@@ -23,7 +23,7 @@ social:
     url: https://scholar.google.com/citations?user=8SWJZFkAAAAJ
   - icon: file-pdf
     iconPack: far
-    url: files/CV-SINA-LABBAF.pdf
+    url: files/LABBAF-SINA.pdf
 
 weight: 1
 widget:
@@ -54,6 +54,6 @@ My research project is to build a service platform for Health Cybernetics resear
 You can read more about it [here](/projects/zotcare).
 My research is supervised by two amazing Professors [Nik Dutt](https://www.ics.uci.edu/~dutt/) and [Amir Rahmani](https://www.ics.uci.edu/~amirr1/).
 
-*I am currently looking for full-stack software engineering or data science positions starting summer 2023.*
+*I am currently looking for full-stack software engineering or data science positions starting September 2023.*
 
-Download my [CV](files/CV-SINA-LABBAF.pdf).
+Download my [Resume](files/LABBAF-SINA.pdf).

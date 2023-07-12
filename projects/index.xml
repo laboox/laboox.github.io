@@ -15,9 +15,10 @@
       <pubDate>Thu, 28 Oct 2021 11:30:47 -0700</pubDate>
       
       <guid>/projects/zotcare/</guid>
-      <description>About ZotCare With ZotCare you can run your cybernetic health system:
-With Zero to little programming knowledge Quick time to production No deployment or maintenance Flexible toward your type of study Use your own logo and branding ZotCare provides services for researchers to run a cybernetic health study through a simple dashboard. To initiate your study you need to start a new group, customize the services based on your study, and start recruiting.
-ZotCare System Overview</description>
+      <description>About ZotCare With ZotCare you can run your mobile health (mHealth) study:
+Zero to little programming knowledge Quick time to production No deployment or maintenance Utilize an AI-based approach for personalization and adaptation ZotCare Intuition
+Service Orchestration Services in ZotCare offer what researchers need to run any type of study. Main components in ZotCare service architecture are:
+Data Collection Services facilitate the ingestion of data from diverse devices, applications, and services. Once collected, the data undergoes processing and is stored as a continuous stream within ZotCare.</description>
     </item>
     
   </channel>

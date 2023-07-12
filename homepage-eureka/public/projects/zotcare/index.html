@@ -83,7 +83,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_3.png">
 
 <meta name="description"
-  content="Zotcare is a service provider platform that helps researchers run their Health Cybernetic research.  Click on the title to read more.
+  content="Zotcare is a service provider platform that helps researchers run their mobile health studies.
 ">
 <script type="application/ld+json">
 {
@@ -115,7 +115,7 @@
     "image": "/images/zotcare-logo.png",
     "datePublished": "2021-10-28T11:30:47-07:00",
     "dateModified": "2021-10-28T11:30:47-07:00",
-    "wordCount":  261 ,
+    "wordCount":  346 ,
     "publisher": {
         "@type": "Person",
         "name": "Sina Labbaf",
@@ -124,7 +124,7 @@
             "url": "/images/icon.png"
         }
         },
-    "description": "Zotcare is a service provider platform that helps researchers run their Health Cybernetic research.  Click on the title to read more.\n"
+    "description": "Zotcare is a service provider platform that helps researchers run their mobile health studies.\n"
 }
 </script><meta property="og:title" content="Zotcare | Sina&#39;s Homepage" />
 <meta property="og:type" content="article" />
@@ -137,7 +137,7 @@
 
 
 
-<meta property="og:description" content="Zotcare is a service provider platform that helps researchers run their Health Cybernetic research.  Click on the title to read more.
+<meta property="og:description" content="Zotcare is a service provider platform that helps researchers run their mobile health studies.
 " />
 
 
@@ -274,68 +274,42 @@
   
 
   <h2 id="about-zotcare">About ZotCare</h2>
-<p>With ZotCare you can run your cybernetic health system:</p>
+<p>With ZotCare you can run your mobile health (mHealth) study:</p>
 <ul>
-<li>With Zero to little programming knowledge</li>
+<li>Zero to little programming knowledge</li>
 <li>Quick time to production</li>
 <li>No deployment or maintenance</li>
-<li>Flexible toward your type of study</li>
-<li>Use your own logo and branding</li>
+<li>Utilize an AI-based approach for personalization and adaptation</li>
 </ul>
-<p>ZotCare provides services for researchers to run a cybernetic health study through a simple dashboard. To initiate your
-study you need to start a new group, customize the services based on your study, and start recruiting.</p>
-<figure><img src="/images/zotcare-overview.png"
-         alt="zotcare-overview" width="80%"/><figcaption>
-            <p>ZotCare System Overview</p>
+<figure class="lg:w-4/5 mx-auto px-6 md:px-8 xl:px-12"><img src="/images/zotcare-intuition.png"
+         alt="zotcare-intuition"/><figcaption>
+            <p>ZotCare Intuition</p>
         </figcaption>
 </figure>
 
-<h2 id="services">Services</h2>
-<p>Services in ZotCare try to cover what researchers need to run any type of study they want. Main components in ZotCare
-service architecture are:</p>
+<h2 id="service-orchestration">Service Orchestration</h2>
+<p>Services in ZotCare offer what researchers need to run any type of study.
+Main components in ZotCare service architecture are:</p>
 <ul>
-<li>Data collection &amp; processing:
+<li><strong>Data Collection Services</strong> facilitate the ingestion of data from diverse devices, applications, and services. Once collected, the data undergoes processing and is stored as a continuous stream within ZotCare.</li>
+<li><strong>Profile Services</strong> assume responsibility for the storage and processing of data in the form of key-value pairs. This storage mechanism enables the creation of profiles for participants and groups, serving as a repository for personalized study-related data and models, as further elucidated subsequently.</li>
+<li>Through <strong>Real-time Processing, Intervention, and Integration (RPII) Services</strong>, researchers possess the capability to incorporate adaptive, intelligent, and real-time components into their studies. These components are capable of triggering various actions based on the data obtained from the Profile and Collection services.</li>
+</ul>
+<p>In conjunction with these services, ZotCare provides two interfaces: a customizable dashboard and a user-facing mobile application.</p>
 <ul>
-<li>Supporting direct synchronization of raw data (Samsung &amp; WearOS), Indirect API synchronization (Oura, Fitbit,
-Garmin), Behavioural data (Aware)</li>
-<li>Embedded with common data processing, feature extraction, and fusion methods for raw and processed data</li>
-<li>Gives researchers ways to create their own data processing pipeline</li>
+<li><strong>Customizable ZotCare dashboard</strong> serves as a web application, offering researchers an interface for accessing and modifying ZotCare services pertinent to their respective studies. Researchers can employ the dashboard to manage collected data, recruit participants, and customize it for clinical purposes if desired.</li>
+<li><strong>ZotCare mobile application</strong>, on the other hand, functions as a user-facing mobile application for participants. It allows them to interact with ZotCare services, enabling functionalities such as receiving reminders, engaging in ecological momentary assessments (EMAs), and benefiting from adaptive mobile health interventions. Moreover, ZotCare facilitates the integration of contextual and behavioral monitoring applications, commonly referred to as lifelogging applications.</li>
 </ul>
-</li>
-<li>Events &amp; Logic:
-<ul>
-<li>Integrate your own modeling, intervention, triage, or logic into ZotCare using events system</li>
-<li>Optimized for performance</li>
-<li>API integration with outside servers</li>
-</ul>
-</li>
-<li>Interactions:
-<ul>
-<li>Come up with your own way of interacting with participants</li>
-<li>Utilize variety of forms of interaction to create your questionnaires, interventions, reminders, etc.</li>
-<li>Use ZotCare&rsquo;s components and make personalized and interactive interactions</li>
-</ul>
-</li>
-<li>Profiles, personalization, and progression:
-<ul>
-<li>Use user profiles to personalize your models toward each participant</li>
-<li>Let participants choose how they want to be involved with your study</li>
-<li>Use group and user profiles to add progression into your study</li>
-</ul>
-</li>
-<li>Actions:
-<ul>
-<li>Use interactive actions to communicate with participants</li>
-<li>Use modeling actions to update your inference models</li>
-</ul>
-</li>
-</ul>
-<figure><img src="/images/zotcare-arch.png"
-         alt="zotcare-arch" width="80%"/><figcaption>
-            <p>ZotCare Service Architecture</p>
+<figure class="lg:w-4/5 mx-auto px-6 md:px-8 xl:px-12"><img src="/images/zotcare-services.png"
+         alt="zotcare-services"/><figcaption>
+            <p>ZotCare Service Orchestration</p>
         </figcaption>
 </figure>
 
+<h2 id="read-more">Read More</h2>
+<p>To read more about ZotCare, please refer to the following <a href="https://arxiv.org/abs/2307.01905v1">paper</a>:</p>
+<p><code>Labbaf, S., Abbasian, M., Azimi, I., Dutt, N., Rahmani, A. M., &amp; Bren, D. (2023). ZotCare: A Flexible, Personalizable, and Affordable mHealth Service Provider. https://arxiv.org/abs/2307.01905v1</code></p>
+<p>To find out how to use ZotCare in your future studies, please visit ZotCare website @ <a href="https://futurehealth.uci.edu/projects/zotcare/">https://futurehealth.uci.edu/projects/zotcare/</a></p>
 
 </article>
 
@@ -372,7 +346,8 @@ Garmin), Behavioural data (Aware)</li>
   <nav id="TableOfContents">
   <ul>
     <li><a href="#about-zotcare">About ZotCare</a></li>
-    <li><a href="#services">Services</a></li>
+    <li><a href="#service-orchestration">Service Orchestration</a></li>
+    <li><a href="#read-more">Read More</a></li>
   </ul>
 </nav>
 </div>

@@ -25,7 +25,7 @@ experiences:
     organization:
       name: Unity Technologies
       url: https://unity.com/
-    dates: 'Summer 22'
+    dates: 'Jun 22 - Aug 22'
     location: San Francisco, CA
     writeup: >
       * Interned in Ads Mediation Features team at Unity Operate Organization

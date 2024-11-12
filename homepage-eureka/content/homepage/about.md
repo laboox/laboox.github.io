@@ -1,17 +1,13 @@
 ---
-title: Sina Labbaf
+title: Sina Labbaf, PhD
 draft: false
-role: PhD Candidate
 avatar: images/avatar.jpg
 bio: >
   Researcher, Software Engineer, Data Scientist, Fitness Enthusiast
-organization:
-  name: Dutt Research Group, UC Irvine
-  url: https://duttgroup.ics.uci.edu/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:slabbaf@uci.edu
+    url: mailto:sina.labbaf@gmail.com
   - icon: github
     iconPack: fab
     url: https://github.com/laboox
@@ -49,11 +45,19 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-I am a PhD Candidate at UC Irvine. 
-My research project is to build a service platform for Health Cybernetics research. 
+I am a Software Engineer at [Google](https://about.google/) focusing on cloud platform infrastructure.
+I work with machine learning workload on high scale computation systems.
+
+I also worked at [Commure](https://www.commure.com/) as Senior Software Engineer more specifically on 
+[Strongline Pro](https://www.commure.com/strongline-pro) product.
+At Commure I was working on Geo-location algorithms and infrastructure for high available safety systems.
+During my time there I was able to develop distributed systems to achieve highly scalable processing of realtime
+IoT data alongside Algorithms for three dimensional location calculation.
+
+I received my PhD in Computer Science from [University of California, Irvine](https://duttgroup.ics.uci.edu/) by
+building a service platform for health research.
+The services were set to provide a solution for health researchers to collect and analyse longitudinal data while
+utilizing artificial intelligence for analysis and intervention.
+My doctoral project was divided between designing a service orchestration for long term health studies and
+building a scalable infrastructure to host this service on.
 You can read more about it [here](/projects/zotcare).
-My research is supervised by two amazing Professors [Nik Dutt](https://www.ics.uci.edu/~dutt/) and [Amir Rahmani](https://www.ics.uci.edu/~amirr1/).
-
-*I am currently looking for full-stack software engineering or data science positions starting September 2023.*
-
-Download my [Resume](files/LABBAF-SINA.pdf).

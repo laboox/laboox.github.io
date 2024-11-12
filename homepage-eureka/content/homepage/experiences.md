@@ -2,11 +2,24 @@
 title: Experiences
 draft: false
 experiences:
+  - title: Senior Software Engineer
+    organization:
+      name: Commure
+      url: https://www.commure.com/
+    dates: 'Oct 23 - Present'
+    location: Mountain View, CA
+    writeup: >
+      - Led the performance and reliability of a Internet-of-Things hospital system for real-time asset tracking and nurse duress safety
+      
+      - Improved indoor location accuracy by more than $150\%$ by incorporating Machine-learning, signal processing, and Kalman-Filter
+      
+      - Designed a robust and high-throughput safety infrastructure deployed in the largest hospital networks across the United States
+
   - title: Research Software Engineer
     organization:
       name: UC Irvine
       url: https://duttgroup.ics.uci.edu/
-    dates: 'Sep 17 - Present'
+    dates: 'Sep 17 - Sep 23'
     location: Irvine, CA
     writeup: >
       - Lead, designed, and developed a cybernetics health service platform for remote healthcare monitoring and intervention

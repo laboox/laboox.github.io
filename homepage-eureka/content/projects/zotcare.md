@@ -36,8 +36,8 @@ In conjunction with these services, ZotCare provides two interfaces: a customiza
 {{< figure src="/images/zotcare-services.png" class="lg:w-4/5 mx-auto px-6 md:px-8 xl:px-12" caption="ZotCare Service Orchestration" alt="zotcare-services" >}}
 
 ## Read More
-To read more about ZotCare, please refer to the following [paper](https://arxiv.org/abs/2307.01905v1):
+To read more about ZotCare, please read [this open-access paper](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1253087/):
 
-```Labbaf, S., Abbasian, M., Azimi, I., Dutt, N., Rahmani, A. M., & Bren, D. (2023). ZotCare: A Flexible, Personalizable, and Affordable mHealth Service Provider. https://arxiv.org/abs/2307.01905v1```
+```Labbaf S, Abbasian M, Azimi I, Dutt N and Rahmani AM (2023) ZotCare: a flexible, personalizable, and affordable mhealth service provider. Front. Digit. Health 5:1253087. doi: 10.3389/fdgth.2023.1253087```
 
 To find out how to use ZotCare in your future studies, please visit ZotCare website @ https://futurehealth.uci.edu/projects/zotcare/

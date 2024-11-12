@@ -6,7 +6,6 @@ experiences:
     organization:
       name: UC Irvine
       url: https://duttgroup.ics.uci.edu/
-    dates: '2023'
     location: Irvine, CA
     writeup: >
       Doctor of Philosophy in Computer Science
@@ -15,7 +14,6 @@ experiences:
     organization:
       name: UC Irvine
       url: https://ics.uci.edu/
-    dates: '2022'
     location: Irvine, CA
     writeup: >
       Masters in Computer Science
@@ -24,7 +22,6 @@ experiences:
     organization:
       name: University of Tehran
       url: https://ece.ut.ac.ir/en/ece
-    dates: '2016'
     location: Tehran, Iran
     writeup: >
       Bachelor of Science in Computer Engineering

@@ -2,11 +2,20 @@
 title: Experiences
 draft: false
 experiences:
+  - title: Software Engineer
+    organization:
+      name: Google
+      url: https://about.google/
+    dates: 'Oct 24 - Present'
+    location: Mountain View, CA
+    writeup: >
+      - Working on cloud platforms infrastructure for high scale machine learning application
+
   - title: Senior Software Engineer
     organization:
       name: Commure
       url: https://www.commure.com/
-    dates: 'Oct 23 - Present'
+    dates: 'Oct 23 - Oct 24'
     location: Mountain View, CA
     writeup: >
       - Led the performance and reliability of a Internet-of-Things hospital system for real-time asset tracking and nurse duress safety

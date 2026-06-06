@@ -1,0 +1,6 @@
+[submodule "src/themes/LoveIt"]
+	path = src/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/hugo-paper"]
+	path = themes/hugo-paper
+	url = https://github.com/nanxiaobei/hugo-paper

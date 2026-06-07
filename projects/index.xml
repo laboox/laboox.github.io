@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Sina's Homepage</title><link>http://labbaf.net/projects/</link><description>Recent content in Projects on Sina's Homepage</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Oct 2021 11:30:47 -0700</lastBuildDate><atom:link href="http://labbaf.net/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Zotcare</title><link>http://labbaf.net/projects/zotcare/</link><pubDate>Thu, 28 Oct 2021 11:30:47 -0700</pubDate><guid>http://labbaf.net/projects/zotcare/</guid><description>&lt;h2 id="about-zotcare"&gt;About ZotCare&lt;/h2&gt;
+&lt;p&gt;With ZotCare you can run your mobile health (mHealth) study:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zero to little programming knowledge&lt;/li&gt;
+&lt;li&gt;Quick time to production&lt;/li&gt;
+&lt;li&gt;No deployment or maintenance&lt;/li&gt;
+&lt;li&gt;Utilize an AI-based approach for personalization and adaptation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class="lg:w-4/5 mx-auto px-6 md:px-8 xl:px-12"&gt;&lt;img src="http://labbaf.net/images/zotcare-intuition.png"
+			alt="zotcare-intuition"&gt;&lt;figcaption&gt;
+			&lt;p&gt;ZotCare Intuition&lt;/p&gt;
+		&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id="service-orchestration"&gt;Service Orchestration&lt;/h2&gt;
+&lt;p&gt;Services in ZotCare offer what researchers need to run any type of study.
+Main components in ZotCare service architecture are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data Collection Services&lt;/strong&gt; facilitate the ingestion of data from diverse devices, applications, and services. Once collected, the data undergoes processing and is stored as a continuous stream within ZotCare.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Profile Services&lt;/strong&gt; assume responsibility for the storage and processing of data in the form of key-value pairs. This storage mechanism enables the creation of profiles for participants and groups, serving as a repository for personalized study-related data and models, as further elucidated subsequently.&lt;/li&gt;
+&lt;li&gt;Through &lt;strong&gt;Real-time Processing, Intervention, and Integration (RPII) Services&lt;/strong&gt;, researchers possess the capability to incorporate adaptive, intelligent, and real-time components into their studies. These components are capable of triggering various actions based on the data obtained from the Profile and Collection services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In conjunction with these services, ZotCare provides two interfaces: a customizable dashboard and a user-facing mobile application.&lt;/p&gt;</description></item></channel></rss>

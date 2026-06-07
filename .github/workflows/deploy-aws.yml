@@ -1,4 +1,4 @@
-name: Deploy Hugo site to Pages and AWS S3
+name: Deploy Hugo site to AWS S3
 
 on:
   push:
@@ -7,15 +7,10 @@ on:
 
 permissions:
   contents: read
-  pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
-  build:
+  deploy-aws:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -27,20 +22,18 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.161.1'
           extended: true
+
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HUGO_CACHEDIR }}
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
 
       - name: Build Hugo site
         run: hugo --minify
-
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4
@@ -50,14 +43,3 @@ jobs:
 
       - name: Deploy to AWS
         run: hugo deploy --target aws
-
-  deploy-pages:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4

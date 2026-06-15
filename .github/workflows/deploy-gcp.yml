@@ -1,4 +1,4 @@
-name: Deploy Hugo site to Firebase Hosting (Disabled)
+name: Deploy Hugo site to Firebase Hosting
 
 on:
   push:

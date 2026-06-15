@@ -4,10 +4,18 @@ description: >
   Zotcare is a service provider platform that helps researchers run their mobile health studies.
 date: 2021-10-28T11:30:47-07:00
 draft: false
-featuredImage: images/zotcare-logo.png
+featuredImage: /images/zotcare-logo.png
+image: /images/zotcare-logo.png
 toc: true
+tags: ["mHealth", "IoT", "Personalization"]
+badges:
+  - "mHealth"
+  - "IoT"
+  - "System Orchestration"
+  - "Research Platform"
 ---
 ## About ZotCare
+Zotcare is a service provider platform that helps researchers run their mobile health studies.
 With ZotCare you can run your mobile health (mHealth) study:
 
 - Zero to little programming knowledge

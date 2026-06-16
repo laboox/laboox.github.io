@@ -34,10 +34,6 @@ languages:
           name: "Publications"
           url: "https://scholar.google.com/citations?user=8SWJZFkAAAAJ"
           weight: 1
-        - identifier: blog
-          name: "Blog"
-          url: "/blog/"
-          weight: 2
 
 params:
   title: "Sina Labbaf"
@@ -66,7 +62,7 @@ params:
     intro: "Hi, my name is"
     title: "Sina Labbaf."
     subtitle: "Software Engineer at Google | PhD in Computer Science"
-    content: "I am a Software Engineer at Google focusing on cloud platform infrastructure for high-scale machine learning workloads."
+    content: "Currently working on artificial intelligence infrastructure. Experience in healthcare machine learning and distributed IoT systems."
     image: "/images/avatar.jpg"
     roundImage: true
     bottomImage:
@@ -86,23 +82,23 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/avatar.jpg"
+    # image: "/images/avatar.jpg"
     content: |-
-      I am a Software Engineer at **Google** focusing on cloud platform infrastructure. I work with machine learning workloads on high-scale computation systems.
+      I am a Software Engineer at **Google** focusing on cloud AI and ML platform infrastructure. I work on GPU platform reliability and performance.
+
+      Previously, I worked at **Commure** as a Senior Software Engineer on the Strongline Pro product, where I developed distributed systems for real-time IoT safety systems and real-time geo-location algorithms.
 
       I received my PhD in Computer Science from **University of California, Irvine** by building a service platform for health research. The services were set to provide a solution for health researchers to collect and analyze longitudinal data while utilizing artificial intelligence for analysis and intervention. My doctoral project was divided between designing a service orchestration for long-term health studies and building a scalable infrastructure to host this service on. You can read more about it [here](/projects/zotcare).
-
-      Previously, I worked at **Commure** as a Senior Software Engineer on the Strongline Pro product, where I developed distributed systems for real-time IoT safety systems and geo-location algorithms.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "Python"
-        - "TypeScript / Node.js"
-        - "Java / Go / C++"
-        - "TensorFlow / PyTorch"
-        - "MongoDB / PostgreSQL / InfluxDB"
-        - "GCP / AWS / Kubernetes / Docker"
+        - "Distributed Training & Serving"
+        - "GCP / GPU & TPU Clusters"
+        - "JAX  / PyTorch / CUDA"
+        - "Python / TypeScript / C++ / Go"
+        - "Kubernetes / Docker"
+        - "Healthcare IoT Systems"
 
   # Experience Section
   experience:
@@ -113,15 +109,16 @@ params:
         jobs:
           - name: "Software Engineer"
             date: "Oct 24 - Present"
-            content: "Working on cloud platforms infrastructure for high-scale machine learning applications."
+            content: |
+              - Leading Google Infra's GPU platform release qualification and performance regression.
       - company: "Commure"
         companyUrl: "https://www.commure.com/"
         jobs:
           - name: "Senior Software Engineer"
             date: "Oct 23 - Oct 24"
             content: |
-              - Led the performance and reliability of an Internet-of-Things hospital system for real-time asset tracking and nurse duress safety
-              - Improved indoor location accuracy by more than 150% by incorporating Machine-learning, signal processing, and Kalman-Filter
+              - Led an Internet-of-Things hospital safety product for real-time asset tracking and nurse duress safety.
+              - Improved indoor location accuracy by more than 150% by incorporating Machine-learning, signal processing, and control systems.
               - Designed a robust and high-throughput safety infrastructure deployed in the largest hospital networks across the United States
       - company: "UC Irvine"
         companyUrl: "https://ics.uci.edu/"
